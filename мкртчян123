@@ -1,0 +1,30 @@
+    ##Отчет по базовой задаче
+выполнил обзор истории репозитория, экспорт последних коммитов
+    ответы на вопросы:
+    1) всего коммитов: 3
+    2) основной автор: арам мкртчян
+    3) информация о себе
+
+
+
+C:\Users\Student\Desktop\git-practice\myrepo>git log
+commit e3e101d3b5d98f23f37941e2d14fe5e21eaede28 (HEAD -> master)
+Author: aramlegendakrasava <aram@gmail.com>
+Date:   Mon Nov 24 13:37:54 2025 +0300
+
+    yaica
+
+commit b92a14dad60379f7a0ac2aaec7feaa5a016c0c89
+Author: aramlegendakrasava <aram@gmail.com>
+Date:   Mon Nov 24 12:18:24 2025 +0300
+
+    yaica
+
+commit 8be24116ec4535522b507f558531675bbd93462b
+Author: aramlegendakrasava <aram@gmail.com>
+Date:   Mon Nov 24 11:48:32 2025 +0300
+
+    yaica
+
+
+
